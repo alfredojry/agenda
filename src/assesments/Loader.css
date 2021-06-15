@@ -1,0 +1,10 @@
+.Loader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Loader > h2 {
+    margin: 0px;
+    color: red;
+}
