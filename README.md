@@ -52,6 +52,7 @@ O projeto já está configurado para correr na porta **3005**, devido a que a po
 
 Iniciar o projeto
 ```
+npm install
 npm start
 ```
 O projeto estará correndo em http://localhost:3005/
